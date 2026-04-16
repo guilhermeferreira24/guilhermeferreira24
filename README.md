@@ -1,6 +1,6 @@
 # Hi There! 
 
-I'm Guilherme, and this is where I share my hands-on collection of SQL, Python and data analytics projects designed to sharpen my analytical skills while building practical tools for business intelligence and data-driven decision making.
+I'm Guilherme, this is where I share my hands-on collection of SQL, Python and data analytics projects designed to sharpen my analytical skills while building practical tools for business intelligence and data-driven decision making.
 
 ***
 
